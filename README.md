@@ -32,7 +32,7 @@ Soy un **Developer Full Stack Junior** que combina habilidades técnicas sólida
 
 ## 💡 Experiencia y Proyectos (Evidencia de Impacto)
 
-### 🔸 2. Notes App: Sistema de Gestión de Notas Full Stack
+### 🔹 1. Notes App: Sistema de Gestión de Notas Full Stack
 **Contexto:** Desafío técnico para Ensolvers, completado en menos de 3 días para demostrar proficiencia Full Stack y entrega rápida. [Ver Proyecto en GitHub](https://github.com/ianismv/NotesApp) (Noviembre, 2025).
 
 Aplicación de notas moderna y feature-rich inspirada en Google Keep, con funcionalidad completa de CRUD, sistema de archivo, gestión de categorías y búsqueda inteligente.
