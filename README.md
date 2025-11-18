@@ -54,6 +54,7 @@ Aplicación web integral para la gestión de empleados (CRUD completo), optimiza
 * **Backend:** **.NET 8.0** diseñado con una arquitectura optimizada, usando **MySQL y MongoDB** para demostrar versatilidad en gestión de datos relacionales y no relacionales.
 * **Frontend:** Desarrollado con **Angular 17** (TypeScript), utilizando Material y Bootstrap para un **diseño moderno y responsive**.
 * **Metodología:** Gestión de tareas y *sprints* utilizando **Trello** y control de versiones con **GitHub**.
+  
 `C#` `Angular` `MySQL` `MongoDB` `REST API`
 
 ### 🔹 3. Proyecto de Automatización (Project Manager Bootcamp)
@@ -64,6 +65,7 @@ Lideré el desarrollo e implementación de un **MVP automatizado** para la gesti
 * **Impacto:** Optimización del proceso de RR.HH. a través de la **automatización de filtrado, análisis y almacenamiento** de CVs.
 * **Rol:** **Project Manager** y líder de equipo (2 PMs, 3 Devs), responsable de la planificación ágil, comunicación con *stakeholders* y documentación técnica.
 * **Tecnologías Clave:** Integración de herramientas *low-code/no-code* (Make, Google Sheets, Google Forms) con **IA Gemini** para análisis de perfil.
+  
 `Scrum` `Liderazgo de Equipos` `Automatización` `IA/Generative AI`
 
 ---
