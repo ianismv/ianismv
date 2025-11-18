@@ -1,8 +1,8 @@
 # 👋 ¡Hola! Soy Ianis - 💡 Full Stack Developer & Agile Practitioner
 
-### 🛠️ Creando soluciones robustas con **.NET/C#** y **Angular** | **Experiencia en Liderazgo Ágil (Scrum)**
+### 🛠️ Creando soluciones robustas con **.NET/C#** y **Angular/React** | **Experiencia en Liderazgo Ágil (Scrum)**
 
-Soy un **Developer Full Stack Junior** que combina habilidades técnicas sólidas en el stack **.NET/Angular** con experiencia práctica en la **gestión de proyectos (Scrum)**. Mi enfoque es la **eficiencia**, la **calidad del código** y la entrega de **valor continuo**.
+Soy un **Developer Full Stack Junior** que combina habilidades técnicas sólidas en el stack **.NET/Angular/React** con experiencia práctica en la **gestión de proyectos (Scrum)**. Mi enfoque es la **eficiencia**, la **calidad del código** y la entrega de **valor continuo**.
 
 **Busco mi primera oportunidad profesional** donde pueda aplicar mi conocimiento full stack y mi mentalidad ágil para impulsar proyectos tecnológicos.
 
@@ -32,7 +32,20 @@ Soy un **Developer Full Stack Junior** que combina habilidades técnicas sólida
 
 ## 💡 Experiencia y Proyectos (Evidencia de Impacto)
 
-### 🔹 1. Sistema de Gestión Full Stack (Computer Solutions)
+### 🔸 2. Notes App: Sistema de Gestión de Notas Full Stack
+**Contexto:** Desafío técnico para Ensolvers, completado en menos de 3 días para demostrar proficiencia Full Stack y entrega rápida. [Ver Proyecto en GitHub](https://github.com/ianismv/NotesApp) (Noviembre, 2025).
+
+Aplicación de notas moderna y feature-rich inspirada en Google Keep, con funcionalidad completa de CRUD, sistema de archivo, gestión de categorías y búsqueda inteligente.
+
+**Backend:** Construido con **.NET 8.0 (C#)** y **ASP.NET Core**, implementando una arquitectura de capas limpia. Utiliza **MongoDB** como base de datos **NoSQL** para el almacenamiento persistente de notas y categorías.
+
+**Frontend:** Desarrollado con **React** y **TypeScript** (usando Vite). Se implementó un diseño responsivo con **Tailwind CSS** y se incorporaron funcionalidades avanzadas como **Drag & Drop** para la reordenación de notas.
+
+**Gestión de Estado:** Uso de **React Query** (Tanstack Query) para la gestión eficiente del estado del servidor (fetching, caching y sincronización de datos).
+
+`React` `TypeScript` `C#` `.NET 8.0` `MongoDB` `Tailwind` `CSS` `REST API`
+
+### 🔹 2. Sistema de Gestión Full Stack (Computer Solutions)
 **Contexto:** Proyecto de Bootcamp Full Stack "Devlights" (Agosto - Diciembre 2024).
 [Ver Proyecto en GitHub](https://github.com/ianismv/ProyectoFinal_Devlights)
 
@@ -43,7 +56,7 @@ Aplicación web integral para la gestión de empleados (CRUD completo), optimiza
 * **Metodología:** Gestión de tareas y *sprints* utilizando **Trello** y control de versiones con **GitHub**.
 `C#` `Angular` `MySQL` `MongoDB` `REST API`
 
-### 🔹 2. Proyecto de Automatización (Project Manager Bootcamp)
+### 🔹 3. Proyecto de Automatización (Project Manager Bootcamp)
 **Contexto:** Liderazgo de proyecto real para optimizar el filtrado de CVs para una consultora (Julio 2025).
 
 Lideré el desarrollo e implementación de un **MVP automatizado** para la gestión de candidaturas.
