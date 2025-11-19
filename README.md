@@ -1,4 +1,4 @@
-# 👋 ¡Hola! Soy Ianis - 💡 Full Stack Developer & Agile Practitioner
+# 👋 ¡Hola! Soy Ianis - 💡 Full Stack Developer 
 
 ### 🛠️ Creando soluciones robustas con **.NET/C#** y **Angular/React** | **Experiencia en Liderazgo Ágil (Scrum)**
 
