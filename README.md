@@ -47,7 +47,7 @@ Aplicación web que permite administrar **menús, pedidos y operaciones básicas
 - Implementación de **CRUD completo** para entidades principales.  
 - Integración frontend–backend mediante **REST API**.  
 
-`C#` `.NET 8` `Angular` `TypeScript` `MySQL` `REST API`
+`C#` `.NET 8` `React` `TypeScript` `PostgreSQL` `REST API`
 
 ---
 
