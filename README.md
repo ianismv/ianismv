@@ -38,7 +38,7 @@ Soy un **Developer Full Stack Junior** que combina habilidades técnicas sólida
 
 Aplicación web que permite administrar **menús, pedidos y operaciones básicas de restaurante**, con un enfoque en arquitectura limpia, APIs REST y una experiencia de usuario moderna.
 
-**Backend:** Desarrollado con **.NET 8 (C#)** y **ASP.NET Core**, implementando **APIs RESTful** para la gestión de entidades del sistema. Utiliza **MySQL** para almacenamiento persistente de datos estructurados.
+**Backend:** Desarrollado con **.NET 8 (C#)** y **ASP.NET Core**, implementando **APIs RESTful** para la gestión de entidades del sistema. Utiliza **PostgreSQL** para almacenamiento persistente de datos estructurados.
 
 **Frontend:** Construido con **Angular (TypeScript)**, con una arquitectura modular y una interfaz moderna orientada a facilitar la gestión de información.
 
