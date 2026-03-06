@@ -34,7 +34,7 @@ Soy un **Developer Full Stack Junior** que combina habilidades técnicas sólida
 
 ### 🔹 1. Restaurant App: Sistema de Gestión para Restaurantes
 **Contexto:** Proyecto Full Stack orientado a la gestión de operaciones de restaurantes, diseñado para demostrar arquitectura backend sólida, integración con base de datos relacional y una interfaz frontend moderna.  
-[Ver Proyecto en GitHub](https://github.com/ianismv/RestaurantApp) (Marzo, 2026).
+[Ver Proyecto en GitHub](https://github.com/ianismv/RestaurantApp) (Diciembre, 2025).
 
 Aplicación web que permite administrar **menús, pedidos y operaciones básicas de restaurante**, con un enfoque en arquitectura limpia, APIs REST y una experiencia de usuario moderna.
 
