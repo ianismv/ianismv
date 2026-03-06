@@ -32,51 +32,68 @@ Soy un **Developer Full Stack Junior** que combina habilidades técnicas sólida
 
 ## 💡 Experiencia y Proyectos (Evidencia de Impacto)
 
-### 🔹 1. Notes App: Sistema de Gestión de Notas Full Stack
+### 🔹 1. Restaurant App: Sistema de Gestión para Restaurantes
+**Contexto:** Proyecto Full Stack orientado a la gestión de operaciones de restaurantes, diseñado para demostrar arquitectura backend sólida, integración con base de datos relacional y una interfaz frontend moderna.  
+[Ver Proyecto en GitHub](https://github.com/ianismv/RestaurantApp) (Marzo, 2026).
+
+Aplicación web que permite administrar **menús, pedidos y operaciones básicas de restaurante**, con un enfoque en arquitectura limpia, APIs REST y una experiencia de usuario moderna.
+
+**Backend:** Desarrollado con **.NET 8 (C#)** y **ASP.NET Core**, implementando **APIs RESTful** para la gestión de entidades del sistema. Utiliza **MySQL** para almacenamiento persistente de datos estructurados.
+
+**Frontend:** Construido con **Angular (TypeScript)**, con una arquitectura modular y una interfaz moderna orientada a facilitar la gestión de información.
+
+**Arquitectura y prácticas:**  
+- Arquitectura en capas para mantener separación de responsabilidades.  
+- Implementación de **CRUD completo** para entidades principales.  
+- Integración frontend–backend mediante **REST API**.  
+
+`C#` `.NET 8` `Angular` `TypeScript` `MySQL` `REST API`
+
+---
+
+### 🔹 2. Notes App: Sistema de Gestión de Notas Full Stack
 **Contexto:** Desafío técnico para Ensolvers, completado en menos de 3 días para demostrar proficiencia Full Stack y entrega rápida. [Ver Proyecto en GitHub](https://github.com/ianismv/NotesApp) (Noviembre, 2025).
 
-Aplicación de notas moderna y feature-rich inspirada en Google Keep, con funcionalidad completa de CRUD, sistema de archivo, gestión de categorías y búsqueda inteligente.
+Aplicación de notas moderna inspirada en Google Keep, con funcionalidad completa de CRUD, sistema de archivo, gestión de categorías y búsqueda inteligente.
 
 **Backend:** Construido con **.NET 8.0 (C#)** y **ASP.NET Core**, implementando una arquitectura de capas limpia. Utiliza **MongoDB** como base de datos **NoSQL** para el almacenamiento persistente de notas y categorías.
 
-**Frontend:** Desarrollado con **React** y **TypeScript** (usando Vite). Se implementó un diseño responsivo con **Tailwind CSS** y se incorporaron funcionalidades avanzadas como **Drag & Drop** para la reordenación de notas.
+**Frontend:** Desarrollado con **React** y **TypeScript** (usando Vite). Se implementó un diseño responsivo con **Tailwind CSS** y funcionalidades avanzadas como **Drag & Drop** para la reordenación de notas.
 
 **Gestión de Estado:** Uso de **React Query** (Tanstack Query) para la gestión eficiente del estado del servidor (fetching, caching y sincronización de datos).
 
 `React` `TypeScript` `C#` `.NET 8.0` `MongoDB` `Tailwind` `CSS` `REST API`
 
-### 🔹 2. Sistema de Gestión Full Stack (Computer Solutions)
-**Contexto:** Proyecto de Bootcamp Full Stack "Devlights" (Agosto - Diciembre 2024).
+---
+
+### 🔹 3. Sistema de Gestión Full Stack (Computer Solutions)
+**Contexto:** Proyecto de Bootcamp Full Stack "Devlights" (Agosto - Diciembre 2024).  
 [Ver Proyecto en GitHub](https://github.com/ianismv/ProyectoFinal_Devlights)
 
 Aplicación web integral para la gestión de empleados (CRUD completo), optimizando procesos administrativos.
 
-* **Backend:** **.NET 8.0** diseñado con una arquitectura optimizada, usando **MySQL y MongoDB** para demostrar versatilidad en gestión de datos relacionales y no relacionales.
-* **Frontend:** Desarrollado con **Angular 17** (TypeScript), utilizando Material y Bootstrap para un **diseño moderno y responsive**.
-* **Metodología:** Gestión de tareas y *sprints* utilizando **Trello** y control de versiones con **GitHub**.
-  
+**Backend:** **.NET 8.0** diseñado con una arquitectura optimizada, usando **MySQL y MongoDB** para demostrar versatilidad en gestión de datos relacionales y no relacionales.
+
+**Frontend:** Desarrollado con **Angular 17** (TypeScript), utilizando Material y Bootstrap para un **diseño moderno y responsive**.
+
+**Metodología:** Gestión de tareas y *sprints* utilizando **Trello** y control de versiones con **GitHub**.
+
 `C#` `Angular` `MySQL` `MongoDB` `REST API`
 
-### 🔹 3. Proyecto de Automatización (Project Manager Bootcamp)
+---
+
+### 🔹 4. Proyecto de Automatización (Project Manager Bootcamp)
 **Contexto:** Liderazgo de proyecto real para optimizar el filtrado de CVs para una consultora (Julio 2025).
 
 Lideré el desarrollo e implementación de un **MVP automatizado** para la gestión de candidaturas.
 
-* **Impacto:** Optimización del proceso de RR.HH. a través de la **automatización de filtrado, análisis y almacenamiento** de CVs.
-* **Rol:** **Project Manager** y líder de equipo (2 PMs, 3 Devs), responsable de la planificación ágil, comunicación con *stakeholders* y documentación técnica.
-* **Tecnologías Clave:** Integración de herramientas *low-code/no-code* (Make, Google Sheets, Google Forms) con **IA Gemini** para análisis de perfil.
-  
+**Impacto:** Optimización del proceso de RR.HH. a través de la **automatización de filtrado, análisis y almacenamiento** de CVs.
+
+**Rol:** **Project Manager** y líder de equipo (2 PMs, 3 Devs), responsable de la planificación ágil, comunicación con *stakeholders* y documentación técnica.
+
+**Tecnologías Clave:** Integración de herramientas *low-code/no-code* (**Make, Google Sheets, Google Forms**) con **IA Gemini** para análisis de perfil.
+
 `Scrum` `Liderazgo de Equipos` `Automatización` `IA/Generative AI`
-
----
-
-## 🎓 Formación y Crecimiento Continuo
-
-**Esta sección es muy fuerte. Úsala para validar tu perfil técnico avanzado y tu mentalidad de aprendizaje.**
-
-* **Certificación Oficial: AI for Developers** (Google Cloud - UNC): Conocimiento avanzado en **IA Generativa (Gemini, Diffusion Models)** aplicada al desarrollo de software.
-* **Project Manager en Contexto Ágil** (Folcademy): Entrenamiento formal en metodologías **Scrum y Kanban**.
-* **Licenciatura en Sistemas de Información (UNNE):** Actualmente en 4to año de carrera. 72% completado del título intermedio **Analista en Sistemas**. Base teórica sólida en ingeniería de software, estructuras de datos y algoritmos.
 
 ---
 
