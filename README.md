@@ -40,7 +40,7 @@ Aplicación web que permite administrar **menús, pedidos y operaciones básicas
 
 **Backend:** Desarrollado con **.NET 8 (C#)** y **ASP.NET Core**, implementando **APIs RESTful** para la gestión de entidades del sistema. Utiliza **PostgreSQL** para almacenamiento persistente de datos estructurados.
 
-**Frontend:** Construido con **Angular (TypeScript)**, con una arquitectura modular y una interfaz moderna orientada a facilitar la gestión de información.
+**Frontend:** Construido con **React/Vite (TypeScript)**, con una arquitectura modular y una interfaz moderna orientada a facilitar la gestión de información.
 
 **Arquitectura y prácticas:**  
 - Arquitectura en capas para mantener separación de responsabilidades.  
